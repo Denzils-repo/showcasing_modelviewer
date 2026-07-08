@@ -5,8 +5,8 @@ A premium, minimal, and fully interactive single-page website showcasing Google'
 The page includes a live 3D sandbox playground, comprehensive documentation guides, and responsive layout styling optimized for mobile, tablet, and desktop devices.
 
 ## 🚀 Live Demo & Hosting
-The repository is hosted at:
-[https://github.com/Denzils-repo/showcasing_modelviewer](https://github.com/Denzils-repo/showcasing_modelviewer/)
+The live demo is hosted at:
+[https://denzils-repo.github.io/showcasing_modelviewer/](https://denzils-repo.github.io/showcasing_modelviewer/)
 
 ---
 
