@@ -29,23 +29,22 @@ To view the showcase locally, spin up any local HTTP server in this directory:
    npx http-server -c-1
    ```
    *(Note: `-c-1` disables browser caching so you can see styling edits in real-time).*
-2. Open `http://localhost:8080/showcasing_model_viewer.html` in your browser.
+2. Open `http://localhost:8080/index.html` in your browser.
 
 ### Option B: Python Server
 If you have Python installed, run:
 ```bash
 python -m http.server 8000
 ```
-Then open `http://localhost:8000/showcasing_model_viewer.html`.
+Then open `http://localhost:8000/index.html`.
 
 ---
 
 ## 📦 Repository Structure
 ```
-3d/
-├── showcasing_model_viewer.html  # Main interactive website
-├── chest.glb                     # 3D treasure chest model asset
-└── README.md                     # Documentation
+├── index.html     # Main interactive website
+├── chest.glb      # 3D treasure chest model asset
+└── README.md      # Documentation
 ```
 
 ---
