@@ -6,7 +6,7 @@ The page includes a live 3D sandbox playground, comprehensive documentation guid
 
 ## 🚀 Live Demo & Hosting
 The repository is hosted at:
-[https://github.com/Denzils-repo/showcasing_modelviewer/](https://github.com/Denzils-repo/showcasing_modelviewer)
+[https://github.com/Denzils-repo/showcasing_modelviewer](https://github.com/Denzils-repo/showcasing_modelviewer/)
 
 ---
 
